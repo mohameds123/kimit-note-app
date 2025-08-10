@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690292874401",
+    "project_id": "kimit-note-app",
+    "storage_bucket": "kimit-note-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690292874401:android:4499e7d6c31b41514924e0",
+        "android_client_info": {
+          "package_name": "com.example.kimitnoteappliction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Ocq22s84jhSO_qQV_IlG6Fr5oUTcwFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
